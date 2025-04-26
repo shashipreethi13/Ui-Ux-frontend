@@ -20,6 +20,11 @@ Objective: Design a restaurant menu page featuring categorized items and interac
 
 DESCRIPTION :The Restaurant Menu Page project aims to create a visually appealing and user-friendly webpage showcasing a restaurant's offerings through categorized items and interactive features. Using HTML, the layout will include essential sections like a header with navigation options (Home, Menu, Reservations, Contact), a search box, social media icons, and contact details. A full-width banner will highlight the restaurant's ambiance or signature dishes. The main content will feature categorized tabs for Appetizers, Mains, Desserts, and Beverages, with cards displaying food details such as images, descriptions, and prices. Interactive JavaScript elements will enable category filtering and modals for additional item details, optionally enhanced with Bootstrap for responsive layouts and jQuery for smoother transitions. Additional sections include promotional content with call-to-action buttons, an embedded Google Map for the location, and a contact form for inquiries. The footer will encapsulate the restaurant's branding with its logo, organized menu links, and a subscription box for email updates. Custom CSS will ensure unique styles for each category, creating an engaging and dynamic experience for visitors.
 
+Video of output:
+
+https://github.com/user-attachments/assets/d8d556cc-ea38-4606-8bbc-347865bffd59
+
+
 
 project output images:
 
